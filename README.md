@@ -38,7 +38,7 @@ These numbers come from a small dataset taken from a single scene, so they shoul
 - The pipeline assumes exactly 6 pins (2 per color).
 - The ball is not tracked.
 
-See the full technical report in [`docs/`](docs/bowling_report.pdf).
+   See the full technical report: [bowling_report.pdf](bowling_report.pdf)
 
 ## Tech stack
 
